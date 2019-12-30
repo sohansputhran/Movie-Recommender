@@ -6,4 +6,4 @@ Recommendation systems are a collection of algorithms used to recommend items to
 
 In this project, I have built a movie recommendation system based on the movie's ratings.
 
-From online courses in Cognitive Class.ai, I learnt this algorithm.
+From online courses in Cognitive Class.ai.
