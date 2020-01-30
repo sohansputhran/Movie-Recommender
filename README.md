@@ -9,5 +9,4 @@ Cleaned the dataset to structure it properly.
 Built two recommendation systems using Content-based filtering and Collaborative filtering algorithms.
 User input data was given to check both the recommendation systems.
 
-
 Link for downloading the dataset for this program: https://grouplens.org/datasets/movielens/25m/ 
